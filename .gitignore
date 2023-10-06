@@ -1,0 +1,42 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Built files
+build/
+dist/
+
+# Logs
+logs
+*.log
+
+# macOS
+.DS_Store
+
+# Editor/IDE-specific files
+.idea/
+.vscode/
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Compiled binary files
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Cache directories
+.cache/
